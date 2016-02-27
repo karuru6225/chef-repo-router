@@ -2,6 +2,7 @@
   "name": "router",
   "run_list": [
     "recipe[router::default]",
+    "recipe[router::pppoe]",
     "recipe[router::hostapd]",
     "recipe[ssh]",
     "recipe[bash]",
