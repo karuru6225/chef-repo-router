@@ -1,0 +1,27 @@
+{
+  "id": "settings",
+  "upnp": {
+    "encrypted_data": "heEoGFW3y8IfZfWBXpjPVWnUOx3xITNTmWnQafwL2SY=\n",
+    "iv": "LkjJgPWIc+6RWUjoUxHA0w==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "lan_net": {
+    "encrypted_data": "cclUP/UkGDj+rPWoTwZo5Q8dXuair8Wa5RWuYp3GhdfQl8K05KMS75MDOPc0\nGvIy\n",
+    "iv": "W5BNvugNQsG1Scya9dzKkQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "drop_countries": {
+    "encrypted_data": "vVgno41JqyeYeTfixCXTC7as6kvdeNVLF5x+bOhz69kqV9jhfxuE+qkt+JlQ\nwTgb\n",
+    "iv": "2Im9pj1uBkCOfoG0KwBGCA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "forwards": {
+    "encrypted_data": "PIFIi3YzN9GK2t1Pq8tGT82ZI0Ac2sh7bnKgYS+ZT9/XoYfpwewn1/4IMIvW\nq92+7wk6MktyhH0sEkgwrubuWJCv9ZWAqwWmct4b8tzpviAmER5F7N9E9cxb\nolPo+8xp\n",
+    "iv": "Bk9CiXXZlBWrxNkbB8CWJg==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
