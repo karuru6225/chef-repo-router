@@ -1,0 +1,12 @@
+{
+  "name": "router",
+  "run_list": [
+    "recipe[router::default]",
+    "recipe[router::hostapd]",
+    "recipe[ssh]",
+    "recipe[bash]",
+    "recipe[basic-packages]",
+    "recipe[vim]",
+    "recipe[tmux]"
+  ]
+}

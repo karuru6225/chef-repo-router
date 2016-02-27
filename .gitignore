@@ -1,0 +1,6 @@
+.DS_Store
+.*.swp
+.kitchen/
+cookbooks
+Berksfile.lock
+data_bag_key
