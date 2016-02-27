@@ -1,0 +1,57 @@
+{
+  "id": "settings",
+  "domain": {
+    "encrypted_data": "thyudpHYcYsA4xneEgHkC3s+x3/VUgGXyj5dyAGzxaA=\n",
+    "iv": "g4vUFYtYpDaUrrwW19jviA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "network": {
+    "encrypted_data": "wU9WdKLKJ7i1uDgUonyks5OICexEoO8tWx+LF7EKAWo=\n",
+    "iv": "sVSAIsPeDeaB6Q8Pu9FCQQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "router_ip": {
+    "encrypted_data": "PH0o3JcRShoeFaXO5aswLBTnPb0RWq63WLQa/ZdMP38=\n",
+    "iv": "wLUUderdn0zwNHTGiuvvBQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "range_start": {
+    "encrypted_data": "UBwMxvXv0OnWeTNIheutihuQm5jkhfTbaFhwroPcqfM=\n",
+    "iv": "O9o9/z/viKjdHbEIkl/6Fw==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "range_end": {
+    "encrypted_data": "NY3+5EbNY5viT6xCsJlIesZHIXwWOuzgDqpMYpP26FA=\n",
+    "iv": "brdkEsQe8F/7voLTERwkHA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "hosts": {
+    "encrypted_data": "9EKft0ab1S49yDF4pZ1Hcwb3WrlE8zeSSlGtp+Genyjy/tcOHVp2wNvHKZOB\nwWADG/wOrQwVIpjUo4dxnZn3Pzl3Ek3JeTcN8Ej5NpuuLkqAs6X66v+ylTcL\nLYmExcLfnTgywuEJd5U7JMKi4p9H7FXSy3tUXBmCNIZZ+33U0uWz0F7pJyUh\nC5xDOVl4v5hc/G0t5cNYdaCGApnUAWMZLrT8OpNlWq+l+aUxEFKxFQJycxEo\nXOYP5NvwCf9t7hxVDZd3AU3xN0kAifXI5zeC+JxZG3C8VI4Llw/AUfFSFpnj\nSyQm5XOWVF2nCUKgVOdXBvqJTlkdiD3qoIIVaJzVh8NUul+3e7mNSkXqhhKn\nADlq2JXymdZngZxF0xYw1bNze3TDxl50G4OkppuGPdix2IkgeHcOuNZaKQoT\nttIjQF6LayxJGIlvBUBfDZ0NuePjW/fYkW4YEwrsu4tgCw1jU+aioDFN12AV\n28v+4WRQzluI/sNkteqjQTZprgBnz3RjCLm4M4YUckdE2AwQNwFbrbFBoe1r\nBBo5oGHwY2bcwa8B3EsYEw2lKa3psYl4CQ1NpJqCMpmaIVI/nAdegOtjENWL\nEgQCWXkLaj0Z3ohv1iCs/oH5+ltVyrTP2qvTAM7mgE/hxr/iUNJMZ6C7QhXz\nXTg1ktLnhUQTy19W59hF3LlxirIhaGPY7vKMdqGp6+kh2qHxOvuEV+VsiSs+\n3ktXicX294JOwAYFyLSJ5dBQyMid+6Poekhnr5JpAsAu37uEO0FT4PNWSTMJ\npT09gFgSdH5dtZGNgNxQksCDVWW0CVmFHNLcUNLZKsIMzC1+vzn74XdwODZg\nhTyKeRhIEa/KuDxf7dSUCdJ47adTRH2C6TAYJ6WVI1FhSX2AqtGcgbDKxYFj\n1gZAuGLL5NJ+6Mk6rQ==\n",
+    "iv": "1E/uFb82FhPJLdYOgR+daA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "wlan_ht_capab": {
+    "encrypted_data": "hGCwk4rCqEJ7cc4WqizvABvR0jAzvtlkl5VWIJ+QzJvKPg7S6H89CPUBV4/y\nEZ3TvbP8YdgmIqKomnxNJXhFwC+QAzFWsTvbr7ea3Q8A67IVolhQuBJPefB+\nCcm36Wh62jOXQMbCG5+pFy1x6dmPDQ==\n",
+    "iv": "YmekHfcCFuxGHdzW1niQew==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "wlan_ssid": {
+    "encrypted_data": "97pFZGUXamF/wgeu/dV/nnRFPsLCtAB0O5YMt5ecr4It1iwzlRh8ePn8vjoJ\nOOqq\n",
+    "iv": "0XvNX31XZtS/3EFwjB7QgQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "wlan_pass": {
+    "encrypted_data": "kuBXoAU1sXCsxgy3xyUf4odZHp34a9GXBHi9bGdDfVI=\n",
+    "iv": "q/lwAPk7U7QU3gvuUHH1lw==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
