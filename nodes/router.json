@@ -4,6 +4,7 @@
     "recipe[router::default]",
     "recipe[router::pppoe]",
     "recipe[router::hostapd]",
+    "recipe[ddns]",
     "recipe[ssh]",
     "recipe[bash]",
     "recipe[basic-packages]",

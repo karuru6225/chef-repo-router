@@ -1,0 +1,21 @@
+{
+  "id": "settings",
+  "ddns_url": {
+    "encrypted_data": "gVL9d3w0Lt1jzekQEHufYd1+GaaOKbPSZY4UJUA8ovHJj9pYbD4gaL5AlbQu\na8QsELg631Wt3+raBnEa5Hr3LQ==\n",
+    "iv": "RXKY2sTnDZ9a78WbkVAyXA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "ddns_user": {
+    "encrypted_data": "8pUiO4MoeEsr+H9BpqC29uYc6mW8lLokZYym7d1YrsE=\n",
+    "iv": "FLXdzvCkQSU8Ajtp4etWfw==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "ddns_pass": {
+    "encrypted_data": "grEdi5RYiB6irC6MLiSq3u3+hZlwSSr+MiZ3w04VPAg=\n",
+    "iv": "F6XpC54vgVnPxDraimt3ug==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
