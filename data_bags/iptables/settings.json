@@ -1,26 +1,26 @@
 {
   "id": "settings",
   "upnp": {
-    "encrypted_data": "heEoGFW3y8IfZfWBXpjPVWnUOx3xITNTmWnQafwL2SY=\n",
-    "iv": "LkjJgPWIc+6RWUjoUxHA0w==\n",
+    "encrypted_data": "ru5xOktpFsgXqGMhdBbjqKkjygk0GMHyEujX6cRS2Gk=\n",
+    "iv": "N1qPo3OQJ/w+oFhKB2lQMQ==\n",
     "version": 1,
     "cipher": "aes-256-cbc"
   },
   "lan_net": {
-    "encrypted_data": "cclUP/UkGDj+rPWoTwZo5Q8dXuair8Wa5RWuYp3GhdfQl8K05KMS75MDOPc0\nGvIy\n",
-    "iv": "W5BNvugNQsG1Scya9dzKkQ==\n",
+    "encrypted_data": "0b4vSTG7KZ+ytPv59gcTH6ncKyPoURxlXNSB/mMk5p70sx5gb/TSLmQnQApc\nU/r6\n",
+    "iv": "KycLm4sfm2j2U/aQSTEOyw==\n",
     "version": 1,
     "cipher": "aes-256-cbc"
   },
   "drop_countries": {
-    "encrypted_data": "vVgno41JqyeYeTfixCXTC7as6kvdeNVLF5x+bOhz69kqV9jhfxuE+qkt+JlQ\nwTgb\n",
-    "iv": "2Im9pj1uBkCOfoG0KwBGCA==\n",
+    "encrypted_data": "TP+x5q8TzXEgMLQRsp4udrynf2fy3uR6aLt47Ud9GWbiSGkfKEVIg4o3xiLf\nRhHg\n",
+    "iv": "ANiUzi4gIJMBlAMvWcnVWA==\n",
     "version": 1,
     "cipher": "aes-256-cbc"
   },
   "forwards": {
-    "encrypted_data": "PIFIi3YzN9GK2t1Pq8tGT82ZI0Ac2sh7bnKgYS+ZT9/XoYfpwewn1/4IMIvW\nq92+7wk6MktyhH0sEkgwrubuWJCv9ZWAqwWmct4b8tzpviAmER5F7N9E9cxb\nolPo+8xp\n",
-    "iv": "Bk9CiXXZlBWrxNkbB8CWJg==\n",
+    "encrypted_data": "3rbYSUerXi46Z2XWJzFFTDYcpH4oSlsHfmuPp19NT/g/tUFGOrq/fQvuIkE4\nRg400ZcvlOZbwi9d8NEfz/bXsgEvpm9q7fThVtGkBXW26slYPxbBILWUyRqN\n+D4wTrXT\n",
+    "iv": "kkPs+RznZrAAZlscJ8L91w==\n",
     "version": 1,
     "cipher": "aes-256-cbc"
   }

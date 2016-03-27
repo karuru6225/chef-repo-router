@@ -4,3 +4,4 @@
 cookbooks
 Berksfile.lock
 data_bag_key
+.chef/local-mode-cache
